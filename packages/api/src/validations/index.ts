@@ -1,2 +1,0 @@
-// TODO: initial config
-export {}
