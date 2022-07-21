@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Producto A",
+    "description": "Este es el producto A",
+    "price": 1.98
+  },
+  {
+    "name": "Producto B",
+    "description": "Este es el producto B",
+    "price": 2.00
+  },
+  {
+    "name": "Producto C",
+    "description": "Este es el producto C",
+    "price": 3.10
+  },
+  {
+    "name": "Producto D",
+    "description": "Este es el producto D",
+    "price": 1.45
+  },
+  {
+    "name": "Producto E",
+    "description": "Este es el producto E",
+    "price": 6.50
+  }
+]

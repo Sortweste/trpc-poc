@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "ES2021",
+    "allowJs": false,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "esModuleInterop": true,
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "isolatedModules": true,
+    "incremental": true,
+  },
+  "references": [
+    {
+      "path": "./packages/api/"
+    },
+    {
+      "path": "./packages/app/"
+    },
+  ],
+  "exclude": ["node_modules"]
+}

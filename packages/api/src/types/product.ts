@@ -1,5 +1,3 @@
-export type ProductT = {
-  name: string;
-  description: string;
-  price: number;
-};
+import type { Product } from "@prisma/client";
+
+export type ProductT = Product;
